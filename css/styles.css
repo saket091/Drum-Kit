@@ -1,6 +1,9 @@
 body {
   text-align: center;
   background-color: #283149;
+  background-image: url('https://images.unsplash.com/photo-1568153354382-6bcd1d46568b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZHJ1bSUyMHNldHxlbnwwfHwwfHw%3D&w=1000&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
@@ -17,31 +20,39 @@ footer {
 }
 
 .w {
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKkqaxwj-zwBYQVYja4j2iiiEAjo-k9czJQ&usqp=CAU');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8y8TN28CsxsVjCt0HHSsQjyARx4N-nrw0uAhTZWY_dCYueJtqEIFIIuEhiY1MmmKSRY&usqp=CAU');
+  background-size: contain;
 }
 
 .a {
-  background-image: url('images/kick.png');
+  background-image: url('https://www.devmusicalindia.in/assets_c/1611127568267-DW%20DRPL1422KKCS%20Performance%20Series%20Cherry%20Stain%2014%20x%2022%20inch%20Kick%20Drum.jpg');
+  background-size: contain;
 }
 
 .s {
-  background-image: url('https://github.com/saket091/Drum-Kit/blob/main/images/crash.png');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMba-kvlLwg4sxb45Y5wTucZHgACFkforMaQ&usqp=CAU');
+  background-size: contain;
 }
 
 .d {
-  background-image: url('images/tom1.png');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_aBBnV81xIWy3_HR6BPVGTGlepoYHE9EhlQ&usqp=CAU');
+  background-position: left top;
 }
 
 .j {
-  background-image: url('images/tom2.png');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_aBBnV81xIWy3_HR6BPVGTGlepoYHE9EhlQ&usqp=CAU');
+  background-position: right top;
 }
 
 .k {
-  background-image: url('images/tom3.png');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP70cJZaW6cLrtsNHmodE3oFwMFr8UUHE09Q&usqp=CAU');
+
+  background-position: left top;
 }
 
 .l {
-  background-image: url('images/tom4.png');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP70cJZaW6cLrtsNHmodE3oFwMFr8UUHE09Q&usqp=CAU');
+  background-position: right top;
 }
 
 .set {
@@ -79,3 +90,4 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
